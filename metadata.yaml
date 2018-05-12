@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8988
     wikipedia: http://en.wikipedia.org/wiki/William_James_Henderson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19958#Some-Forerunners-of-Italian-Opera
 gutenberg_bookshelf: Opera
 gutenberg_issued: '2006-11-28'
 gutenberg_type: Text
